@@ -1,0 +1,16 @@
+read lock: 0x00000000
+read waiters before the notify: 0x00000001
+write waiters before the notify: 0x00000001
+notify W: 0x00000000
+R's lock: 0x00000000
+W's callback ran: 0x00000001
+the lock count while W's callback runs: 0x00000002
+the write owner while W's callback runs: 0x00000000
+read waiters while W's callback runs: 0x00000000
+write waiters while W's callback runs: 0x00000000
+write waiters after W's callback: 0x00000001
+read unlock: 0x00000000
+W's lock: 0x00000000
+W's callback runs: 0x00000001
+the lock count after: 0x00000000
+DONE

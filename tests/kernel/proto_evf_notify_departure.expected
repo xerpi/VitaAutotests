@@ -1,0 +1,12 @@
+waiters before the notify: 0x00000001
+set 0x2: 0x00000000
+notify W: 0x00000000
+a poll for 0x2 while W is held: 0x800280E2
+waiters while W is held: 0x00000000
+W's callback runs while W is held: 0x00000000
+set 0x1: 0x00000000
+W's wait: 0x00000000
+W's out bits: 0x00000003
+W's callback runs: 0x00000001
+the flags after: 0x00000003
+DONE

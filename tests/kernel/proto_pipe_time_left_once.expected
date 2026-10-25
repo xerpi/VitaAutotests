@@ -1,0 +1,14 @@
+fill S's pipe: 0x00000000
+send 4 bytes to W: 0x00000000
+receive 4 bytes from S's pipe: 0x00000000
+W's time left is written: 0x00000001
+S's time left is written: 0x00000001
+notify W: 0x00000000
+notify S: 0x00000000
+W's receive: 0x00000000
+W's callback runs: 0x00000001
+W's time left is still the sentinel: 0x00000001
+S's send: 0x00000000
+S's callback runs: 0x00000001
+S's time left is still the sentinel: 0x00000001
+DONE

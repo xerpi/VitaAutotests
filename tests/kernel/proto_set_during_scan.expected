@@ -1,0 +1,10 @@
+W's wait type during the scan: 0x00000000
+set E0 during the scan: 0x00000000
+W's wait: 0x00000001
+result 0 is for E0: 0x00000001
+result 0: 0x00000000
+result 0 bits: 0x01000000
+result 0 user data: 0x00000055
+E0's bits after: 0x00000000
+E1's waiters after: 0x00000000
+DONE

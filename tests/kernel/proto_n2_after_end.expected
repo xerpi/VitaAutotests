@@ -1,0 +1,6 @@
+the notify returned before the signal: 0x00000000
+signal: 0x00000000
+W's wait: 0x00000000
+W's callback runs: 0x00000001
+the count after: 0x00000000
+DONE

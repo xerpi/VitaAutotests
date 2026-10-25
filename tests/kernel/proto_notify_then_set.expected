@@ -1,0 +1,10 @@
+notify W: 0x00000000
+W's callback runs before the set: 0x00000000
+first set: 0x00000000
+S's wait: 0x00000000
+S's bits: 0x01000000
+W's callback runs after the set: 0x00000001
+second set: 0x00000000
+W's wait: 0x00000001
+W's result user data: 0x00000022
+DONE

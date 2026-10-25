@@ -1,0 +1,21 @@
+semaphore: send W a signal: 0x00000000
+semaphore: W's wait ended after the signal: 0x00000000
+semaphore: W's wait: 0x00000000
+semaphore: W had over 1 s left: 0x00000001
+semaphore: W's signal wait: 0x00000000
+event flag: send W a signal: 0x00000000
+event flag: W's wait ended after the signal: 0x00000000
+event flag: W's wait: 0x00000000
+event flag: W had over 1 s left: 0x00000001
+event flag: W's signal wait: 0x00000000
+simple event: send W a signal: 0x00000000
+simple event: W's wait ended after the signal: 0x00000000
+simple event: W's wait: 0x00000000
+simple event: W had over 1 s left: 0x00000001
+simple event: W's signal wait: 0x00000000
+timer: send W a signal: 0x00000000
+timer: W's wait ended after the signal: 0x00000000
+timer: W's wait: 0x00000000
+timer: W had over 1 s left: 0x00000001
+timer: W's signal wait: 0x00000000
+DONE

@@ -1,0 +1,18 @@
+two multiple waits: set W1's event: 0x00000000
+two multiple waits: W1's wait: 0x00000001
+two multiple waits: W1 got the timer: 0x00000000
+two multiple waits: W2's wait: 0x00000001
+two multiple waits: W2 got the timer: 0x00000001
+two multiple waits: W2 had over 500 ms left: 0x00000001
+a plain wait behind a multiple wait: set W1's event: 0x00000000
+a plain wait behind a multiple wait: W1's wait: 0x00000001
+a plain wait behind a multiple wait: W1 got the timer: 0x00000000
+a plain wait behind a multiple wait: W2's wait: 0x00000000
+a plain wait behind a multiple wait: W2 got the timer: 0x00000001
+a plain wait behind a multiple wait: W2 had over 500 ms left: 0x00000001
+a multiple wait behind a plain wait: W1's wait: 0x80028005
+a multiple wait behind a plain wait: W1 got the timer: 0x00000000
+a multiple wait behind a plain wait: W2's wait: 0x00000001
+a multiple wait behind a plain wait: W2 got the timer: 0x00000001
+a multiple wait behind a plain wait: W2 had over 500 ms left: 0x00000001
+DONE

@@ -1,0 +1,13 @@
+waiters before the notify: 0x00000002
+notify A: 0x00000000
+B's wait while A is held: 0x00000000
+A's callback runs while A is held: 0x00000000
+the count while A is held: 0x00000000
+waiters while A is held: 0x00000000
+first signal: 0x00000000
+second signal: 0x00000000
+A's wait: 0x00000000
+A's callback runs: 0x00000001
+B was done when A's callback ran: 0x00000001
+the count after: 0x00000000
+DONE

@@ -1,0 +1,13 @@
+unlock the lightweight mutex: 0x00000000
+unlock the heavy mutex: 0x00000000
+the work area's owner word is L: 0x00000001
+the work area's count word: 0x00000002
+the lightweight info's owner is L: 0x00000001
+the lightweight info's count: 0x00000002
+the lightweight info's waiters: 0x00000000
+the heavy info's owner is H: 0x00000001
+the heavy info's count: 0x00000002
+the heavy info's waiters: 0x00000000
+L returned: 0x00000000
+H returned: 0x00000000
+DONE

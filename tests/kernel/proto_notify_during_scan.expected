@@ -1,0 +1,13 @@
+W's wait type during the scan: 0x00000000
+first notify, during the scan: 0x00000000
+W's wait type after the arm: 0x80020000
+callback runs after the arm: 0x00000000
+second notify, while W waits: 0x00000000
+callback runs after the second notify: 0x00000001
+notifications the callback got: 0x00000002
+set E: 0x00000000
+W's multiple wait: 0x00000001
+W's callback notify flag after the multiple wait: 0x00000000
+W's semaphore wait after: 0x80028005
+callback runs at the end: 0x00000001
+DONE

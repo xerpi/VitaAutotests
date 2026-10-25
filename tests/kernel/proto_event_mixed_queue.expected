@@ -1,0 +1,26 @@
+P queued first: set: 0x00000000
+P queued first: P's wait ended with the set: 0x00000001
+P queued first: M's wait ended with the set: 0x00000000
+P queued first: cancel: 0x00000000
+P queued first: the waits the cancel ended: 0x00000001
+P queued first: P's wait: 0x00000000
+P queued first: M's wait: 0x00000001
+P queued first: M's result 0: 0x80028007
+M queued first: set: 0x00000000
+M queued first: P's wait ended with the set: 0x00000000
+M queued first: M's wait ended with the set: 0x00000001
+M queued first: cancel: 0x00000000
+M queued first: the waits the cancel ended: 0x00000001
+M queued first: P's wait: 0x80028007
+M queued first: M's wait: 0x00000001
+M queued first: M's result 0: 0x00000000
+both waiting, cancel: the cancel: 0x00000000
+both waiting, cancel: the waits the cancel ended: 0x00000002
+both waiting, cancel: P's wait: 0x80028007
+both waiting, cancel: M's wait: 0x00000001
+both waiting, cancel: M's result 0: 0x80028007
+both waiting, delete: the delete: 0x00000000
+both waiting, delete: P's wait: 0x80028006
+both waiting, delete: M's wait: 0x00000001
+both waiting, delete: M's result 0: 0x80028006
+DONE

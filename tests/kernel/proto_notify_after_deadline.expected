@@ -1,0 +1,9 @@
+W's status after its deadline: 0x00000008
+W's wait type after its deadline: 0x80000020
+waiters after W's deadline: 0x00000001
+notify: 0x00000000
+W's wait: 0x80028005
+W's callback runs: 0x00000001
+W's time left: 0x00000000
+waiters after: 0x00000000
+DONE

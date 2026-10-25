@@ -1,0 +1,11 @@
+the notify returned before the first signal: 0x00000000
+first signal: 0x00000000
+the notify returned: 0x00000001
+W's first wait: 0x00000000
+W's status after the notify: 0x00000008
+W's wait type after the notify: 0x80000020
+W's second wait so far: 0xFFFFFFFF
+second signal: 0x00000000
+W's second wait: 0x00000000
+W's callback runs: 0x00000001
+DONE

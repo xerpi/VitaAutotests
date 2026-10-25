@@ -1,0 +1,11 @@
+heavy: the notify returned before the unlock: 0x00000000
+heavy: unlock: 0x00000000
+heavy: W's lock: 0x00000000
+heavy: W's callback runs: 0x00000001
+heavy: W owned the mutex: 0x00000001
+lightweight: the notify returned before the unlock: 0x00000000
+lightweight: unlock: 0x00000000
+lightweight: W's lock: 0x00000000
+lightweight: W's callback runs: 0x00000001
+lightweight: W owned the mutex: 0x00000001
+DONE

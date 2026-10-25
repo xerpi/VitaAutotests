@@ -1,0 +1,7 @@
+the notify returned before the set: 0x00000000
+set: 0x00000000
+W's wait: 0x00000000
+W's bits: 0x01000000
+W's callback runs: 0x00000001
+the event's bits after: 0x00000000
+DONE

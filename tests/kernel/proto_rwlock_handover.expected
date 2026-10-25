@@ -1,0 +1,17 @@
+write unlock 0: 0x00000000
+write unlock 1: 0x00000000
+write unlock 2: 0x00000000
+readers, then a writer: the lock count: 0x00000001
+readers, then a writer: the write owner is the writer, or nobody without one: 0x00000001
+readers, then a writer: read waiters: 0x00000002
+readers, then a writer: write waiters: 0x00000000
+a writer, then readers: the lock count: 0x00000001
+a writer, then readers: the write owner is the writer, or nobody without one: 0x00000001
+a writer, then readers: read waiters: 0x00000002
+a writer, then readers: write waiters: 0x00000000
+readers only: the lock count: 0x00000002
+readers only: the write owner is the writer, or nobody without one: 0x00000001
+readers only: read waiters: 0x00000000
+readers only: write waiters: 0x00000000
+a waiter returned before the exit: 0x00000000
+DONE

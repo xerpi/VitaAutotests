@@ -1,0 +1,14 @@
+A1: notify: 0x00000000
+A1: end: 0x00000000
+A1: exit status: 0x00000077
+A1: its wait returned: 0x00000000
+A1: waiters after: 0x00000000
+A1: the count after: 0x00000000
+A2: signal: 0x00000000
+A2: notify: 0x00000000
+A2: end: 0x00000000
+A2: exit status: 0x00000088
+A2: its wait returned: 0x00000000
+A2: waiters after: 0x00000000
+A2: the count after: 0x00000000
+DONE

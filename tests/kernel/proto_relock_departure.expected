@@ -1,0 +1,27 @@
+heavy: signal: 0x00000000
+heavy: W relocks: 0x00000001
+heavy: the mutex's waiters before the notify: 0x00000001
+heavy: notify W: 0x00000000
+heavy: the mutex's waiters after the notify: 0x00000000
+heavy: W's callback ran: 0x00000001
+heavy: the mutex's waiters while the callback runs: 0x00000000
+heavy: the mutex's waiters after the callback: 0x00000001
+heavy: W relocks again: 0x00000001
+heavy: unlock: 0x00000000
+heavy: W's condition wait: 0x00000000
+heavy: W's callback runs: 0x00000001
+heavy: W owned the mutex: 0x00000001
+lightweight: signal: 0x00000000
+lightweight: W relocks: 0x00000001
+lightweight: the mutex's waiters before the notify: 0x00000001
+lightweight: notify W: 0x00000000
+lightweight: the mutex's waiters after the notify: 0x00000000
+lightweight: W's callback ran: 0x00000001
+lightweight: the mutex's waiters while the callback runs: 0x00000000
+lightweight: the mutex's waiters after the callback: 0x00000001
+lightweight: W relocks again: 0x00000001
+lightweight: unlock: 0x00000000
+lightweight: W's condition wait: 0x00000000
+lightweight: W's callback runs: 0x00000001
+lightweight: W owned the mutex: 0x00000001
+DONE

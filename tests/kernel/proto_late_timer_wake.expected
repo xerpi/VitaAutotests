@@ -1,0 +1,16 @@
+due before the deadline: the wait: 0x00000001
+due before the deadline: result 0 bits: 0x00008000
+due before the deadline: time left: 0x00000000
+due after the deadline: the wait: 0x80028005
+due after the deadline: result 0 bits: 0x00000000
+due after the deadline: time left: 0x00000000
+two timers listed late first: the wait: 0x00000001
+two timers listed late first: result 0 is the timer due first: 0x00000001
+two timers listed late first: result 0 bits: 0x00008000
+one timer, due before the deadline: the wait: 0x00000000
+one timer, due before the deadline: the bits: 0x00008000
+one timer, due before the deadline: time left: 0x00000000
+one timer, due after the deadline: the wait: 0x80028005
+one timer, due after the deadline: the bits: 0x00000000
+one timer, due after the deadline: time left: 0x00000000
+DONE

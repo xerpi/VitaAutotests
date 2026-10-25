@@ -1,0 +1,16 @@
+fill S1's pipe: 0x00000000
+send 4 bytes to W1: 0x00000000
+receive 4 bytes from S1's pipe: 0x00000000
+notify W2: 0x00000000
+send 4 bytes to W3: 0x00000000
+W1's time left is written: 0x00000001
+W1's size: 0x00000004
+S1's time left is written: 0x00000001
+S1's size: 0x00000004
+W2's time left is written: 0x00000001
+W2's callback runs: 0x00000000
+W3's time left: 0x001E8480
+W3's size: 0x00000004
+W3's pipe receivers: 0x00000001
+a waiter returned before the exit: 0x00000000
+DONE
