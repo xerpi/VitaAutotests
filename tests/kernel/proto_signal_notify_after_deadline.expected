@@ -1,0 +1,7 @@
+W still waits after its deadline: 0x00000001
+notify W's callback: 0x00000000
+W's signal wait: 0x80028005
+W's time left: 0x00000000
+runs of the callback when the wait returned: 0x00000001
+the check after the wait: 0x00000000
+DONE

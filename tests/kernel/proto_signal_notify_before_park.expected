@@ -1,0 +1,11 @@
+W waits for a signal: 0x00000001
+runs of the callback while W waits: 0x00000001
+notifies of the callback pending while W waits: 0x00000001
+notify W's callback: 0x00000000
+W waits for a signal again: 0x00000001
+notifies of the callback pending then: 0x00000000
+send W a signal: 0x00000000
+W's signal wait: 0x00000000
+runs of the callback when the wait returned: 0x00000002
+the check after the wait: 0x00000000
+DONE
