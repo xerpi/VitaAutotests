@@ -1,0 +1,6 @@
+W returned before the notify: 0x00000000
+notify W's callback: 0x00000000
+W's vblank wait: 0x00000000
+runs of the callback when the wait returned: 0x00000001
+the check after the wait: 0x00000000
+DONE
