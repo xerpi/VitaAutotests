@@ -1,0 +1,6 @@
+notify W's callback: 0x00000000
+W's delay: 0x00000000
+runs of the callback when the delay returned: 0x00000000
+the check after the delay: 0x00000001
+runs of the callback after the check: 0x00000001
+DONE
