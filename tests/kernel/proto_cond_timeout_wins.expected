@@ -1,0 +1,11 @@
+heavy: W's wait: 0x80028005
+heavy: W's time left: 0x00000000
+heavy: W owns the mutex after its wait, before the gate opens: 0x00000001
+heavy: a signal after the timeout: 0x00000000
+heavy: SignalCondTo(W) after the timeout: 0x80028022
+lightweight: W's wait: 0x80028005
+lightweight: W's time left: 0x00000000
+lightweight: W owns the mutex after its wait, before the gate opens: 0x00000001
+lightweight: a signal after the timeout: 0x00000000
+lightweight: SignalCondTo(W) after the timeout: 0x80028022
+DONE

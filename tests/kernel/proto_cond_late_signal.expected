@@ -1,0 +1,11 @@
+heavy: W still waits on the condition after its deadline: 0x00000001
+heavy: the signal: 0x00000000
+heavy: W's wait: 0x00000000
+heavy: W's time left: 0x00000000
+heavy: W owned the mutex after its wait: 0x00000001
+lightweight: W still waits on the condition after its deadline: 0x00000001
+lightweight: the signal: 0x00000000
+lightweight: W's wait: 0x00000000
+lightweight: W's time left: 0x00000000
+lightweight: W owned the mutex after its wait: 0x00000001
+DONE
