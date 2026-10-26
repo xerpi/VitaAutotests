@@ -1,0 +1,11 @@
+with callbacks: notify W's callback: 0x00000000
+with callbacks: the wait lasted at least half a second: 0x00000001
+with callbacks: the wait: 0x00000000
+with callbacks: runs of the callback when the wait returned: 0x00000001
+with callbacks: the check after the wait: 0x00000000
+without callbacks: notify W's callback: 0x00000000
+without callbacks: the wait lasted at least half a second: 0x00000001
+without callbacks: the wait: 0x00000000
+without callbacks: runs of the callback when the wait returned: 0x00000000
+without callbacks: the check after the wait: 0x00000001
+DONE
