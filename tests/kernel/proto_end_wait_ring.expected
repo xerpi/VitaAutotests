@@ -1,0 +1,11 @@
+all started: 0x00000001
+all done: 0x00000001
+thread 0: timeouts: 0x0000012C
+thread 0: other results: 0x00000000
+thread 1: timeouts: 0x0000012C
+thread 1: other results: 0x00000000
+thread 2: timeouts: 0x0000012C
+thread 2: other results: 0x00000000
+thread 3: timeouts: 0x0000012C
+thread 3: other results: 0x00000000
+DONE

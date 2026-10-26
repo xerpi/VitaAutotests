@@ -1,0 +1,12 @@
+W waits for T's end: 0x00000001
+notify W's callback: 0x00000000
+end T's first run: 0x00000000
+W's status variable after T's first end: 0x0000DEAD
+start T again: 0x00000000
+let the callback return: 0x00000000
+W waits for T's end again: 0x00000001
+end T's second run: 0x00000000
+W's end wait: 0x00000000
+W's status: 0x00000222
+runs of the callback: 0x00000001
+DONE
