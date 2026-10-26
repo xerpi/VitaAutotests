@@ -1,0 +1,23 @@
+heavy, signal: the signal: 0x00000000
+heavy, signal: W is still held before the delete: 0x00000000
+heavy, signal: delete the condition: 0x00000000
+heavy, signal: W's wait: 0x00000000
+heavy, signal: W owned the mutex after its wait: 0x00000000
+heavy, signal: W's unlock after its wait: 0x80028146
+heavy, timeout: W is still held before the delete: 0x00000000
+heavy, timeout: delete the condition: 0x00000000
+heavy, timeout: W's wait: 0x80028005
+heavy, timeout: W owned the mutex after its wait: 0x00000000
+heavy, timeout: W's unlock after its wait: 0x80028146
+lightweight, signal: the signal: 0x00000000
+lightweight, signal: W is still held before the delete: 0x00000000
+lightweight, signal: delete the condition: 0x00000000
+lightweight, signal: W's wait: 0x00000000
+lightweight, signal: W owned the mutex after its wait: 0x00000000
+lightweight, signal: W's unlock after its wait: 0x80028186
+lightweight, timeout: W is still held before the delete: 0x00000000
+lightweight, timeout: delete the condition: 0x00000000
+lightweight, timeout: W's wait: 0x80028005
+lightweight, timeout: W owned the mutex after its wait: 0x00000000
+lightweight, timeout: W's unlock after its wait: 0x80028186
+DONE

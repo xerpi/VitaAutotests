@@ -79,7 +79,8 @@ static void run_case(const char *name, int lw) {
     TEST_WAIT_FOR(w_ready);
     test_wait_until_waiting(w);
     const SceUID notifier = test_start_thread(notifier_entry);
-    sceKernelDelayThread(100000);
+    // The notify's first step is done once the callback counts it, and its second step holds
+    TEST_WAIT_FOR(sceKernelGetCallbackCount(callback) > 0);
     PRINTF(notified, "%s: the notify returned before the signal", name);
     PRINTF(lw ? sceKernelSignalLwCond(&lw_cond) : sceKernelSignalCond(cond), "%s: the signal", name);
     test_join_thread(w);
